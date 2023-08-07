@@ -1,5 +1,5 @@
 
-let nombre = 'Juan'; 
+let nombre = 'Jose'; 
 
 console.log (`Hola mundo, mi nombre es ${nombre}`)
 
